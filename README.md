@@ -4,6 +4,9 @@ A Python implementation of the **Lucas–Kanade Sparse Optical Flow** algorithm 
 
 ---
 
+## Demo
+[🎥 Watch the Demo Video](https://drive.google.com/drive/folders/15DPMWTikE6WBCO-d163sfqrq1rOgF8Vg?usp=drive_link)
+
 ## Features
 
 - Implemented the Lucas–Kanade optical flow algorithm from scratch
